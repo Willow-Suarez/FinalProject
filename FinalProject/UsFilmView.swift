@@ -88,7 +88,7 @@ struct UsFilmView: View {
                             .clipped()
                         
                     }
-                    .padding(.leading, 19.0)
+                    .padding(.leading, 17.0)
                 }
                
               }
